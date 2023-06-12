@@ -14,3 +14,4 @@
 
 - IP Geolocation API
 
+[Google Slide](https://docs.google.com/presentation/d/110deSKju8ELIHbCbApzlerj93Wq-ms7AzBGbVpsemy0/edit?usp=sharing) , showcasing some more information regarding the project! (For now)
